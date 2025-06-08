@@ -1,0 +1,26 @@
+Phần 1: In ra danh sách các sản phẩm đang có dưới dạng:
+
+"id": 1,
+"name": "Áo thun nam basic",
+"category": "Thời trang",
+"price": 150000,
+"stock": 120,
+"description": "Áo thun cotton 100%, mềm mại, thoáng khí, phù hợp mặc hàng ngày.",
+"brand": "Coolmate",
+"rating": 4.5
+ ———————————————————————————————
+"id": 2,
+"name": "Áo thun nam basic",
+"category": "Thời trang",
+"price": 150000,
+"stock": 120,
+"description": "Áo thun cotton 100%, mềm mại, thoáng khí, phù hợp mặc hàng ngày.",
+"brand": "Coolmate",
+"rating": 4.5
+
+Phần 2: Thêm 1 product mới vào lít products
+Nhập id: Chú ý là id phải là duy nhất, minh có có 1 bước check id người dùng nhập
+
+Phần 3: Sắp xếp sản phẩm dựa theo giá tiền thấp đến cao
+
+Phần 4: Xoá product dựa Theo index do người dùng nhập :
